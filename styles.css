@@ -105,7 +105,7 @@ body {
   text-align: left;
 }
 
-.completado {
+.completado p {
   text-decoration: line-through;
 }
 
